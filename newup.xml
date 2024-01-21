@@ -1,0 +1,27 @@
+<Root>
+    <XMLOutput>
+        <Key>file1_orignal</Key>
+        <Value>//s3/bucketname/xmlfile1.xml</Value>
+    </XMLOutput>
+     <XMLOutput>
+        <Key>file1</Key>
+     <Value>\\networkpath\folder\xmlfile1.xml</Value>
+    </XMLOutput>
+    <XMLOutput>
+        <Key>d</Key>
+        <Value>38</Value>
+    </XMLOutput>
+    <XMLOutput>
+        <Key>Env</Key>
+        <Value>xyz</Value>
+    </XMLOutput>
+    <XMLOutput>
+        <Key>file2_original</Key>
+        <Value>//s3/bucketname/xmlfile2.xml</Value>
+    </XMLOutput>
+     <XMLOutput>
+        <Key>file2</Key>
+        <Value>\\networkpath\folder\xmlfile2.xml</Value>
+    </XMLOutput>
+    
+</Root>
